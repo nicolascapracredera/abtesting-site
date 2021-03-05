@@ -18,24 +18,39 @@ Website:
 Google Analytics:
 
 - Navigate to google analytics
-- Select admin in toolbar
+  - https://analytics.google.com/
+- Select admin in the bottom of the toolbar
 - Select create account
-- create a property for what you will be measuring
-  - advanced
-    - create universal property only
-  - setup data stream – select web
-  - input information for your website (username.github.io)
-- copy global site tag and copy into the head of your index.html
-- push up
+- Give an account name
+- Create a property for what you will be measuring
+- Give a property name
+  - Show advanced options
+    - Input the URL of your website
+    - Create universal property only
+- Answer the questions about your company size (this doesn't matter)
+- Create
+- Copy global site tag and copy into the head of your index.html
+- Commit and push up your changes
 
 ## Lab
 
 Optimize
 
+- Create Account
+- Add container
 - Go to settings
 - Link to analytics
-- Select property
+- Select the property that was just created
+- Link
 - Create an experience
+- Input a name
+- Add your website
 - Using the editor create at least one variant to target
+- Select the checkout button and modify the color
+  - navigate to the background section and change the rgb value
 - Create an objective
+- Install optimize
+  - Select view instructions
+  - Copy the script snippet and paste in the head of your index.html
+  - Commit and push up the changes
 - Start
